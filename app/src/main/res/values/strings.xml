@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGps</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="capturar">Capturar</string>
+    <string name="detener">Detener</string>
+</resources>
